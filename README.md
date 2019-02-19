@@ -14,7 +14,7 @@ Note that the last column of the training file should contain the target variabl
 
 # General pipeline
 
-Numerics and factors are seperated, and the later will be one-hot encoded. Missing factor values will be treated as their own category.
+Numerics and factors are separated, and the later will be one-hot encoded. Missing factor values will be treated as their own category.
 Missing numeric values will be imputed via a Random Forest algorithm. This is done separately, without merging the training and testing
 files.
 
