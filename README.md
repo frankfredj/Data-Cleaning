@@ -53,7 +53,7 @@ files:
 * 1460 x 79 train file
 * 1459 x 79 test file
 
-And using an i7-3630qm laptop processor, we achieve the following performances:
+And using an i7-3630qm laptop processor, we achieve the following result:
 
 ![](https://i.imgur.com/RqDBHcL.png)
 
